@@ -1,30 +1,8 @@
-# PROYECTO: PIZZERÍA DON REMOLO #equipo83
+# PROYECTO: PIZZERÍA DON REMOLO #equipo
 
-![logo pizeria](https://i.imgur.com/D2xE2vl.jpg)
+![logo pizeria](https://i.postimg.cc/tgkrH0kf/logo-pizzeria.jpg)
 
 ### Menú de comidas para realizar pedidos online. Gestor de pedidos para el local. #idea3.
-
----
-
-## Integrantes del proyecto : 
-
-Nombre y correo
-
-- Anyta Pato Rojas ( Project Manger / Scrum ) - anytapatorojas@gmail.com
-
-- Alejandro Schwartz ( Frontend ) - alejandromatiassch@gmail.com
-
-- Diego Torres ( Frontend ) - dto1902@gmail.com
-
-- Ivan Decima ( Backend ) - ivandecima.facultad@gmail.com
-
-- Ezequiel Spizzirri ( Backend ) - ezequielspizzirri2000@gmail.com
-
-- Jenifer Alvarado ( QA / Tester ) - aviljen1@gmail.com
-
-- Marian Helen Salazar ( QA / Tester ) - marianhsg@gmail.com
-
-- Maria Soledad Juarez ( QA / Tester ) - solej1980@yahoo.com
 
 ---
 
